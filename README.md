@@ -1,6 +1,6 @@
 # SmartRecycleNet: Real-Time Recyclable Classification on Jetson Nano
 
-This project deploys a lightweight machine learning model on an embedded Jetson Nano to classify recyclable waste items — **plastic, paper, glass, and cans** — in real-time using computer vision.
+This project deploys a lightweight machine learning model on an embedded Jetson Nano to classify recyclable waste items — **plastic, paper, glass, and metal** — in real-time using computer vision.
 
 ## 🔍 Problem Statement
 
